@@ -22,11 +22,16 @@ Main.html
 <body>
 <img src="Maps.png" usemap="#image-map">
 <map name="image-map">
-<area target="_blank" alt="" title="DLF" href="DLF.html" coords="552,420,830,507" shape="rect">
-<area target="_blank" alt="" title="" href="Miot.html" coords="1167,375,1416,487" shape="rect">
-<area target="_blank" alt="" title="" href="Sstores.html" coords="206,6,475,106" shape="rect">
-<area target="_blank" alt="" title="" href="Feathers.html" coords="1071,526,842,421" shape="rect">
-<area target="_blank" alt="" title="" href="bbqnation.html" coords="439,139,692,234" shape="rect">
+<area target="_blank" alt="" title="DLF" href="DLF.html" coords="552,420,830,507" 
+shape="rect">
+<area target="_blank" alt="" title="" href="Miot.html" coords="1167,375,1416,487" 
+shape="rect">
+<area target="_blank" alt="" title="" href="Sstores.html" coords="206,6,475,106" 
+shape="rect">
+<area target="_blank" alt="" title="" href="Feathers.html" coords="1071,526,842,421" 
+shape="rect">
+<area target="_blank" alt="" title="" href="bbqnation.html" coords="439,139,692,234"
+ shape="rect">
 </map>
 </body>
 </html>
