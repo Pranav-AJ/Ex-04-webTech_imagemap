@@ -13,9 +13,8 @@ Write the neede HTML code.
 ## Step 4
 Run the Django project and Execute the HTML files
 # Code:
-Main.html
-
 ```html
+Main.html
 <html>
 <head>
 <title></title>
