@@ -31,7 +31,7 @@ shape="rect">
 <area target="_blank" alt="" title="" href="Feathers.html" coords="1071,526,842,421" 
 shape="rect">
 <area target="_blank" alt="" title="" href="bbqnation.html" coords="439,139,692,234"
- shape="rect">
+shape="rect">
 </map>
 </body>
 </html>
