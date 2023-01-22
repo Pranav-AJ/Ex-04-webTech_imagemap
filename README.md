@@ -51,10 +51,10 @@ text-align:center;
 </style>
 <body>
 <h1>DLF</h1>
-Delhi Land & Finance (DLF Limited) is a commercial real estate developer. It was founded by Chaudhary Raghvendra Singh in 1946 and it is based in New Delhi, India.[2][3] DLF developed residential colonies in Delhi such as, Model Town, Rajouri Garden, Krishna Nagar, South Extension, Greater Kailash, Kailash Colony, and Hauz Khas. DLF builds residential, office, and retail properties.
+Delhi Land & Finance (DLF Limited) is a commercial real estate developer. It was founded by Chaudhary Raghvendra Singh in 1946 and it is based in New Delhi, India.  DLF developed residential colonies in Delhi such as, Model Town, Rajouri Garden, Krishna Nagar, South Extension, Greater Kailash, Kailash Colony, and Hauz Khas. DLF builds residential, office, and retail properties.
 With the passage of Delhi Development Act in 1957, the local government assumed control of real estate development in Delhi and banned private real estate developers. 
 As a result, DLF began acquiring land at a relatively low cost outside the area controlled by the Delhi Development Authority, in the district of Gurgaon, in the adjacent state of Haryana. In the mid-1970s, the company started developing their DLF City project at Gurgaon.
- Its plans included hotels, infrastructure and special economic zones-related development projects
+Its plans included hotels, infrastructure and special economic zones-related development projects
 </body>
 </html>
 ```
@@ -130,7 +130,7 @@ text-align:center;
 Set in a commercial area, this polished hotel is 10 km from Chennai International Airport and 6 km from St. Thomas Mount National Shrine.
 The bright, refined rooms feature flat-screen TVs, Wi-Fi, and tea and coffeemaking facilities. Most have floor-to ceiling windows. 
 Suites add living rooms. Room service is available 24 hours.There's a fine-dining restaurant, a rooftop restaurant and an international eatery, along with 3 bars and a tearoom.
- A breakfast buffet is extra. Additional amenities include an outdoor pool, a fitness centre and a spa. There's 2,000 sq m of event space
+A breakfast buffet is extra. Additional amenities include an outdoor pool, a fitness centre and a spa. There's 2,000 sq m of event space
 </body>
 </html>
 ```
