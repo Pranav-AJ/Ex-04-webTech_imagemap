@@ -51,12 +51,18 @@ text-align:center;
 </style>
 <body>
 <h1>DLF</h1>
-Delhi Land & Finance (DLF Limited) is a commercial real estate developer. It was founded by Chaudhary Raghvendra Singh in 1946 and it is based in New Delhi, India.
-DLF developed residential colonies in Delhi such as, Model Town, Rajouri Garden, Krishna Nagar, South Extension, Greater Kailash, Kailash Colony, and Hauz Khas. 
-DLF builds residential, office, and retail properties.With the passage of Delhi Development Act in 1957, the local government assumed control of real estate development
-in Delhi and banned private real estate developers.As a result, DLF began acquiring land at a relatively low cost outside the area controlled by the Delhi 
-Development Authority, in the district of Gurgaon, in the adjacent state of Haryana. In the mid-1970s, the company started developing their DLF City project at Gurgaon.
-Its plans included hotels, infrastructure and special economic zones-related development projects.
+Delhi Land & Finance (DLF Limited) is a commercial real estate developer. It was founded by 
+Chaudhary Raghvendra Singh in 1946 and it is based in New Delhi, India.DLF developed 
+residential colonies in Delhi such as, Model Town, Rajouri Garden, Krishna Nagar,
+South Extension, Greater Kailash, Kailash Colony, and Hauz Khas. DLF builds residential, 
+office, and retail properties.With the passage of Delhi Development Act in 1957, the local 
+government assumed control of real estate developmentin Delhi and banned private real estate 
+developers.As a result, DLF began acquiring land at a relatively low cost outside the area 
+controlled by the Delhi Development Authority, in the district of Gurgaon, in the adjacent
+state of Haryana. In the mid-1970s, the company started developing their DLF City project at 
+Gurgaon.Its plans included hotels, infrastructure and special economic zones-related development
+projects.
+</body>
 </body>
 </html>
 
