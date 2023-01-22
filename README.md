@@ -14,6 +14,8 @@ Write the neede HTML code.
 Run the Django project and Execute the HTML files
 # Code:
 Main.html
+
+```html
 <html>
 <head>
 <title></title>
@@ -30,8 +32,9 @@ Main.html
 </map>
 </body>
 </html>
-
+```
 DLF.html
+```html
 <html>
 <head>
 <title>DLF Cybercity</title>
@@ -54,8 +57,9 @@ As a result, DLF began acquiring land at a relatively low cost outside the area 
  Its plans included hotels, infrastructure and special economic zones-related development projects
 </body>
 </html>
-
+```
 bbqnation.html
+```html
 <html>
 <head>
 <title>Barbeque Nation</title>
@@ -78,8 +82,9 @@ A novelty at the time, the restaurant allowed clients to customize their own sta
 In its very first outlet in Mumbai in 2006, Barbeque Nation inculcated the one principle that would cause the chain to expand pan-India in an amazingly short time period, putting the customer first at all steps of the dining experience – from reserving a table and customizing the level of spiciness, to creating in house live entertainment and taking feedback from customers long after their dining experience was over.
 </body>
 </html>
-
+```
 Miot.html
+```html
 <html>
 <head>
 <title>Miot International</title>
@@ -103,8 +108,9 @@ It is a specialty hospital in the field of joint replacement surgeries, Interven
 It receives nearly 3,500 foreign patients every year, contributing 25 percent of the hospital's patients. North and East Africa account for many of these foreign patients.
 </body>
 </html>
-
+```
 Feathers.html
+```html
 <html>
 <head>
 <title>Feathers A radha</title>
@@ -127,8 +133,9 @@ Suites add living rooms. Room service is available 24 hours.There's a fine-dinin
  A breakfast buffet is extra. Additional amenities include an outdoor pool, a fitness centre and a spa. There's 2,000 sq m of event space
 </body>
 </html>
-
+```
 Sstores.html
+```html
 <html>
 <head>
 <title>Saravana Stores-Porur</title>
@@ -153,7 +160,7 @@ Saravana Stores, founded in 1969, is a chain of retail stores in India.
  The company is growing rapidly and has plans to open stores in Mumbai, New Delhi, and Bengaluru The company also operates the Saravana Selvarathinam Stores, in Tirunelveli and Madurai.
 </body>
 </html>
-
+```
 # Output:
 ![label](./Maps.png)
 ![label](./bnation.png)
