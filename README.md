@@ -201,8 +201,7 @@ Stores,in Tirunelveli and Madurai.
 ![label](./feathers.png)
 ![label](./miot.png)
 ![label](./stores.png)
-
-
+![label](./html_val.png)
 
 # Result:
 The program for implementing image map is executed.
